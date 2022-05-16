@@ -9,7 +9,6 @@
 <body>
 
 <h3>Hello GitTest</h3>
-スタッシュの確認
 
 </body>
 </html>
